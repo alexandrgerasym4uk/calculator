@@ -1,0 +1,4 @@
+D:/Навчання кпі/5 семестр (3 курс)/Системне програмування Курсова робота/Практика 2/SP_lab2/cmake-build-debug/CMakeFiles/calculator.dir
+D:/Навчання кпі/5 семестр (3 курс)/Системне програмування Курсова робота/Практика 2/SP_lab2/cmake-build-debug/CMakeFiles/SP_lab2.dir
+D:/Навчання кпі/5 семестр (3 курс)/Системне програмування Курсова робота/Практика 2/SP_lab2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Навчання кпі/5 семестр (3 курс)/Системне програмування Курсова робота/Практика 2/SP_lab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
